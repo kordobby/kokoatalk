@@ -1,3 +1,3 @@
 # Kokoa Talk 2022 Poordobby
 
-CSS got so much better!
+HTML & CSS are so much fun!
